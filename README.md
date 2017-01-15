@@ -5,12 +5,12 @@ Guia de estudos para a certificação Java. Os resumos dos conteudos foram e ser
 ## Conteúdo
 
 ### Java Básico
-
-Definir o escopo das variáveis
-Definir a estrutura de uma classe Java
-Crie aplicativos Java executáveis ​​com um método principal
-Importe outros pacotes Java para torná-los acessíveis no seu código
-
+<ul>
+<li>Definir o escopo das variáveis</li>
+<li>Definir a estrutura de uma classe Java</li>
+<li>Crie aplicativos Java executáveis ​​com um método principal</li>
+<li>Importe outros pacotes Java para torná-los acessíveis no seu código</li>
+</ul>
 ### Trabalhando com tipos de dados Java
 
 Declarar e inicializar variáveis
