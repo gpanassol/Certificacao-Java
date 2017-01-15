@@ -1,4 +1,4 @@
-## Definir o escopo de variaveis
+## Definir o escopo das variáveis
 
 O escopo de variáveis é tópico cobrado na certificação Java SE 7 Programmer. Aqui será escrito um breve resumo.
 
